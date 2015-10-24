@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KAForm</string>
+    <string name="validation_error_title">Invalid Input</string>
+    <string name="required_field_error_msg">%s is a required field</string>
+</resources>
